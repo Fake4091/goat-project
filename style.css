@@ -1,0 +1,16 @@
+.who-head {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.who-are-you {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-top: 0;
+  padding: 0 15px 0 0;
+}
+
+.ado-promo-art {
+  height: 200px;
+}
