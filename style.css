@@ -1,3 +1,8 @@
+.title {
+  text-align: center;
+  color: #ed8796;
+}
+
 .who-head {
   margin-bottom: 0;
   padding-bottom: 0;
@@ -13,4 +18,79 @@
 
 .ado-promo-art {
   height: 200px;
+}
+
+.accomplishments {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin: 10px;
+}
+
+.new-genesis-coverart {
+  height: 200px;
+}
+
+.billboard-jp {
+  height: 200px;
+}
+
+.video {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 10px;
+}
+
+.video h2 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.video p {
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+body {
+  text-align: center;
+  background-color: #24273a;
+  color: #cad3f5;
+}
+
+h2 {
+  color: #b7bdf8;
+}
+
+table {
+  width: 50%;
+  background-color: #6e738d;
+  border: 3px solid #6e738d;
+}
+
+td {
+  background-color: #494d64;
+}
+
+footer {
+  background-color: #494d64;
+  box-shadow: 0 50vh 0 50vh #494d64;
+}
+
+footer hr {
+  border: 0.5px solid #8087a2;
+  margin: 30px -7px 0px;
+}
+
+a:link {
+  color: #8aadf4;
+}
+
+a:visited {
+  color: #c6a0f6;
 }
